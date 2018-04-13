@@ -68,7 +68,7 @@
     "babel-preset-env": "^1.6.0",
     "chai": "^4.1.0",
     "coffee-loader": "^0.7.2",
-    "coffeescript": "^2.0.0",
+    "coffeescript": "^2.2.3",
     "conventional-changelog": "^1.1.18",
     "css-loader": "^0.28.4",
     "eslint": "^3.19.0",
